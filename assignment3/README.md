@@ -25,3 +25,5 @@ https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9
 (Keras инсталлировать не нужно, наш notebook сам установит PyTorch)
 
 `PyTorch_CNN.ipynb` - следуйте инструкциям в ноутбуке.
+
+https://colab.research.google.com/drive/13YXWdIJddOi_a5iNE9EY3OmkNFpt-JeP?usp=sharing
